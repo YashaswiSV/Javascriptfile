@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //===========================char at====================
 
 const mypara ="apple,banana,grapes,guava,mango,Apple,strawberry ,pineapple";
@@ -34,3 +35,17 @@ console.log(x);
 
 
 
+=======
+//===============set time out======================
+
+function show(){
+    setTimeout(loader,3000);
+}
+
+const loader=()=>{
+    document.getElementById("webcode").style.display="block";
+    document.getElementById("img").style.display="none";
+
+
+}
+>>>>>>> d841893 (file added)
